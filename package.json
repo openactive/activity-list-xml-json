@@ -1,0 +1,14 @@
+{
+  "name": "activity-list-xml-json",
+  "version": "1.0.0",
+  "description": "Converter from XML to JSON for Activity List",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Evans",
+  "license": "MIT",
+  "dependencies": {
+    "xml-reader": "^2.4.3"
+  }
+}
